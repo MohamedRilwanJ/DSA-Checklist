@@ -57,7 +57,7 @@ export function getExpandedTopics() {
   } catch (err) {
     console.error('Failed to load expanded topics:', err);
   }
-  return new Set(['01 ARRAYS']); // Default expand first topic
+  return new Set(); // All main topics collapsed by default
 }
 
 export function saveExpandedTopics(expandedSet) {

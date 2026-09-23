@@ -17,6 +17,7 @@ export default function App() {
   const [completedSet, setCompletedSet] = useState(() => getCompletedProblems());
   const [bookmarkSet, setBookmarkSet] = useState(() => getBookmarkedProblems());
   const [expandedTopics, setExpandedTopics] = useState(() => getExpandedTopics());
+  const [expandedSubtopics, setExpandedSubtopics] = useState(new Set());
 
   const [statusFilter, setStatusFilter] = useState('all');
   const [searchQuery, setSearchQuery] = useState('');
@@ -69,6 +70,24 @@ export default function App() {
       }
       return next;
     });
+  };
+
+  const handleToggleSubtopic = (subtopicKey) => {
+    setExpandedSubtopics((prev) => {
+      const next = new Set(prev);
+      if (next.has(subtopicKey)) {
+        next.delete(subtopicKey);
+      } else {
+        next.add(subtopicKey);
+      }
+      return next;
+    });
+  };
+
+  const handleResetAccordion = () => {
+    setExpandedTopics(new Set());
+    setExpandedSubtopics(new Set());
+    saveExpandedTopics(new Set());
   };
 
   // Get list of unique topic names in original sequence
@@ -127,6 +146,7 @@ export default function App() {
 
   const totalCount = rawData.length;
   const completedCount = completedSet.size;
+  const isSearching = searchQuery.trim() !== '' || activeTopic !== 'ALL';
 
   return (
     <div className="app-container">
@@ -146,13 +166,12 @@ export default function App() {
           activeTopic={activeTopic}
           setActiveTopic={setActiveTopic}
           topicsList={topicsList}
+          onResetAccordion={handleResetAccordion}
         />
 
         {Object.keys(groupedData).length > 0 ? (
           <div className="accordion-list">
             {Object.entries(groupedData).map(([topicName, subtopicsData]) => {
-              // Automatically expand topic if searching or filtering topic, else check expandedTopics state
-              const isSearching = searchQuery.trim() !== '' || activeTopic !== 'ALL';
               const isExpanded = isSearching || expandedTopics.has(topicName);
 
               return (
@@ -162,6 +181,9 @@ export default function App() {
                   subtopicsData={subtopicsData}
                   isExpanded={isExpanded}
                   onToggleExpand={() => handleToggleExpandTopic(topicName)}
+                  expandedSubtopics={expandedSubtopics}
+                  onToggleSubtopic={handleToggleSubtopic}
+                  isSearching={isSearching}
                   completedSet={completedSet}
                   bookmarkSet={bookmarkSet}
                   onToggleCompleted={handleToggleCompleted}

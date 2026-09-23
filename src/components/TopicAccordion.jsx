@@ -7,6 +7,9 @@ export default function TopicAccordion({
   subtopicsData,
   isExpanded,
   onToggleExpand,
+  expandedSubtopics,
+  onToggleSubtopic,
+  isSearching,
   completedSet,
   bookmarkSet,
   onToggleCompleted,
@@ -59,17 +62,24 @@ export default function TopicAccordion({
 
       {isExpanded && (
         <div className="topic-content">
-          {Object.entries(subtopicsData).map(([subtopicName, problems]) => (
-            <SubtopicSection
-              key={subtopicName}
-              subtopicName={subtopicName}
-              problems={problems}
-              completedSet={completedSet}
-              bookmarkSet={bookmarkSet}
-              onToggleCompleted={onToggleCompleted}
-              onToggleBookmark={onToggleBookmark}
-            />
-          ))}
+          {Object.entries(subtopicsData).map(([subtopicName, problems]) => {
+            const subtopicKey = `${topicName}::${subtopicName}`;
+            const isSubExpanded = isSearching || (expandedSubtopics && expandedSubtopics.has(subtopicKey));
+
+            return (
+              <SubtopicSection
+                key={subtopicName}
+                subtopicName={subtopicName}
+                problems={problems}
+                isExpanded={isSubExpanded}
+                onToggleExpand={() => onToggleSubtopic(subtopicKey)}
+                completedSet={completedSet}
+                bookmarkSet={bookmarkSet}
+                onToggleCompleted={onToggleCompleted}
+                onToggleBookmark={onToggleBookmark}
+              />
+            );
+          })}
         </div>
       )}
     </div>

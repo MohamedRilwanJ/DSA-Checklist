@@ -1,5 +1,5 @@
 import React from 'react';
-import { Search } from 'lucide-react';
+import { Search, RotateCcw } from 'lucide-react';
 
 export default function FilterBar({
   searchQuery,
@@ -8,7 +8,8 @@ export default function FilterBar({
   setStatusFilter,
   activeTopic,
   setActiveTopic,
-  topicsList
+  topicsList,
+  onResetAccordion
 }) {
   return (
     <div className="filter-container">
@@ -55,6 +56,15 @@ export default function FilterBar({
             </option>
           ))}
         </select>
+
+        <button
+          className="reset-accordion-btn"
+          onClick={onResetAccordion}
+          title="Collapse all topics and subtopics"
+        >
+          <RotateCcw size={14} />
+          <span>Reset</span>
+        </button>
       </div>
     </div>
   );

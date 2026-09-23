@@ -1,17 +1,17 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { ChevronDown, ChevronRight } from 'lucide-react';
 import ProblemRow from './ProblemRow';
 
 export default function SubtopicSection({
   subtopicName,
   problems,
+  isExpanded,
+  onToggleExpand,
   completedSet,
   bookmarkSet,
   onToggleCompleted,
   onToggleBookmark
 }) {
-  const [isOpen, setIsOpen] = useState(true);
-
   const completedCount = problems.filter((p) => completedSet.has(p.id)).length;
   const totalCount = problems.length;
 
@@ -19,11 +19,11 @@ export default function SubtopicSection({
     <div className="subtopic-group">
       <div
         className="subtopic-header-row"
-        onClick={() => setIsOpen(!isOpen)}
+        onClick={onToggleExpand}
       >
         <div className="subtopic-title">
           <span className="subtopic-chevron">
-            {isOpen ? <ChevronDown size={14} /> : <ChevronRight size={14} />}
+            {isExpanded ? <ChevronDown size={14} /> : <ChevronRight size={14} />}
           </span>
           <span>{subtopicName}</span>
         </div>
@@ -32,7 +32,7 @@ export default function SubtopicSection({
         </span>
       </div>
 
-      {isOpen && (
+      {isExpanded && (
         <div className="problem-table-wrap">
           <table className="problem-table">
             <thead>
