@@ -13,6 +13,7 @@ export default function FilterBar({
 }) {
   return (
     <div className="filter-container">
+      {/* Row 1: Search Field */}
       <div className="search-field">
         <Search size={16} className="search-field-icon" />
         <input
@@ -24,7 +25,8 @@ export default function FilterBar({
         />
       </div>
 
-      <div className="filter-actions">
+      {/* Row 2 on mobile / Middle on desktop: Status Filter Buttons */}
+      <div className="filter-status-group">
         <button
           className={`filter-btn ${statusFilter === 'all' ? 'active' : ''}`}
           onClick={() => setStatusFilter('all')}
@@ -32,18 +34,21 @@ export default function FilterBar({
           All
         </button>
         <button
-          className={`filter-tab filter-btn ${statusFilter === 'completed' ? 'active' : ''}`}
+          className={`filter-btn ${statusFilter === 'completed' ? 'active' : ''}`}
           onClick={() => setStatusFilter('completed')}
         >
           Completed
         </button>
         <button
-          className={`filter-tab filter-btn ${statusFilter === 'pending' ? 'active' : ''}`}
+          className={`filter-btn ${statusFilter === 'pending' ? 'active' : ''}`}
           onClick={() => setStatusFilter('pending')}
         >
           Pending
         </button>
+      </div>
 
+      {/* Row 3 on mobile / Right on desktop: Topic Dropdown & Reset */}
+      <div className="filter-secondary-group">
         <select
           className="topic-select-dropdown"
           value={activeTopic}
