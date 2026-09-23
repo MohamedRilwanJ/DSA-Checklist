@@ -2,8 +2,8 @@
   {
     "id": "01",
     "num": 1,
-    "title": "Richest customer wealth",
-    "topic": "01 ARRAYS",
+    "title": "Richest Customer Wealth",
+    "topic": "01 Arrays",
     "subtopic": "1-D Array",
     "practiceLink": "https://leetcode.com/problems/richest-customer-wealth/",
     "page": 4
@@ -12,7 +12,7 @@
     "id": "02",
     "num": 2,
     "title": "Two Sum",
-    "topic": "01 ARRAYS",
+    "topic": "01 Arrays",
     "subtopic": "1-D Array",
     "practiceLink": "https://leetcode.com/problems/two-sum/description/",
     "page": 4
@@ -20,8 +20,8 @@
   {
     "id": "03",
     "num": 3,
-    "title": "Count negative numbers in a sorted matrix",
-    "topic": "01 ARRAYS",
+    "title": "Count Negative Numbers in a Sorted Matrix",
+    "topic": "01 Arrays",
     "subtopic": "1-D Array",
     "practiceLink": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/",
     "page": 4
@@ -29,8 +29,8 @@
   {
     "id": "04",
     "num": 4,
-    "title": "Next permutation",
-    "topic": "01 ARRAYS",
+    "title": "Next Permutation",
+    "topic": "01 Arrays",
     "subtopic": "1-D Array",
     "practiceLink": "https://leetcode.com/problems/next-permutation/description/",
     "page": 4
@@ -38,8 +38,8 @@
   {
     "id": "05",
     "num": 5,
-    "title": "Median of two sorted arrays",
-    "topic": "01 ARRAYS",
+    "title": "Median of Two Sorted Arrays",
+    "topic": "01 Arrays",
     "subtopic": "1-D Array",
     "practiceLink": "https://leetcode.com/problems/median-of-two-sorted-arrays/description/",
     "page": 4
@@ -47,8 +47,8 @@
   {
     "id": "06",
     "num": 6,
-    "title": "Find greatest common divisor of array",
-    "topic": "01 ARRAYS",
+    "title": "Find Greatest Common Divisor of Array",
+    "topic": "01 Arrays",
     "subtopic": "1-D Array",
     "practiceLink": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/",
     "page": 4
@@ -56,8 +56,8 @@
   {
     "id": "07",
     "num": 7,
-    "title": "Self dividing numbers",
-    "topic": "01 ARRAYS",
+    "title": "Self Dividing Numbers",
+    "topic": "01 Arrays",
     "subtopic": "1-D Array",
     "practiceLink": "https://leetcode.com/problems/self-dividing-numbers/description/",
     "page": 4
@@ -65,8 +65,8 @@
   {
     "id": "08",
     "num": 8,
-    "title": "Inversion of array - 1587115620",
-    "topic": "01 ARRAYS",
+    "title": "Inversion of Array - 1587115620",
+    "topic": "01 Arrays",
     "subtopic": "1-D Array",
     "practiceLink": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
     "page": 5
@@ -74,8 +74,8 @@
   {
     "id": "09",
     "num": 9,
-    "title": "Reverse pairs",
-    "topic": "01 ARRAYS",
+    "title": "Reverse Pairs",
+    "topic": "01 Arrays",
     "subtopic": "1-D Array",
     "practiceLink": "https://leetcode.com/problems/reverse-pairs/description/",
     "page": 5
@@ -83,8 +83,8 @@
   {
     "id": "10",
     "num": 10,
-    "title": "Algorithm  Special positions in a binary matrix",
-    "topic": "01 ARRAYS",
+    "title": "Special Positions in a Binary Matrix",
+    "topic": "01 Arrays",
     "subtopic": "2-D Array",
     "practiceLink": "https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/",
     "page": 5
@@ -93,7 +93,7 @@
     "id": "11",
     "num": 11,
     "title": "Transpose Matrix",
-    "topic": "01 ARRAYS",
+    "topic": "01 Arrays",
     "subtopic": "2-D Array",
     "practiceLink": "https://leetcode.com/problems/transpose-matrix/description/",
     "page": 5
@@ -102,7 +102,7 @@
     "id": "12",
     "num": 12,
     "title": "01 Matrix",
-    "topic": "01 ARRAYS",
+    "topic": "01 Arrays",
     "subtopic": "2-D Array",
     "practiceLink": "https://leetcode.com/problems/01-matrix/description/",
     "page": 5
@@ -111,7 +111,7 @@
     "id": "13",
     "num": 13,
     "title": "Spiral Matrix",
-    "topic": "01 ARRAYS",
+    "topic": "01 Arrays",
     "subtopic": "2-D Array",
     "practiceLink": "https://leetcode.com/problems/spiral-matrix/description/",
     "page": 5
@@ -120,7 +120,7 @@
     "id": "14",
     "num": 14,
     "title": "Pascal's Triangle",
-    "topic": "01 ARRAYS",
+    "topic": "01 Arrays",
     "subtopic": "2-D Array",
     "practiceLink": "https://leetcode.com/problems/pascals-triangle/description/",
     "page": 5
@@ -129,8 +129,8 @@
     "id": "15",
     "num": 15,
     "title": "Minimum Size Subarray Sum",
-    "topic": "01 ARRAYS",
-    "subtopic": "2-D Array",
+    "topic": "01 Arrays",
+    "subtopic": "Prefix Sum",
     "practiceLink": "https://leetcode.com/problems/minimum-size-subarray-sum/description/",
     "page": 6
   },
@@ -138,7 +138,7 @@
     "id": "16",
     "num": 16,
     "title": "Running Sum of 1d Array",
-    "topic": "01 ARRAYS",
+    "topic": "01 Arrays",
     "subtopic": "Prefix Sum",
     "practiceLink": "https://leetcode.com/problems/running-sum-of-1d-array/description/",
     "page": 6
@@ -147,17 +147,17 @@
     "id": "17",
     "num": 17,
     "title": "Range Sum Query 2D Immutable",
-    "topic": "01 ARRAYS",
-    "subtopic": "Kadane's Algorithm",
+    "topic": "01 Arrays",
+    "subtopic": "Prefix Sum",
     "practiceLink": "https://leetcode.com/problems/range-sum-query-2d-immutable/description/",
     "page": 6
   },
   {
     "id": "18",
     "num": 18,
-    "title": "Algorithm  Maximum Subarray",
-    "topic": "01 ARRAYS",
-    "subtopic": "Sliding Window (Fixed/Variable Size)",
+    "title": "Maximum Subarray",
+    "topic": "01 Arrays",
+    "subtopic": "Kadane's Algorithm",
     "practiceLink": "https://leetcode.com/problems/maximum-subarray/description/",
     "page": 6
   },
@@ -165,8 +165,8 @@
     "id": "19",
     "num": 19,
     "title": "Maximum Sum Circular Subarray",
-    "topic": "01 ARRAYS",
-    "subtopic": "Sliding Window (Fixed/Variable Size)",
+    "topic": "01 Arrays",
+    "subtopic": "Kadane's Algorithm",
     "practiceLink": "https://leetcode.com/problems/maximum-sum-circular-subarray/description/",
     "page": 6
   },
@@ -174,8 +174,8 @@
     "id": "20",
     "num": 20,
     "title": "Longest Turbulent Subarray",
-    "topic": "01 ARRAYS",
-    "subtopic": "Two Pointers",
+    "topic": "01 Arrays",
+    "subtopic": "Kadane's Algorithm",
     "practiceLink": "https://leetcode.com/problems/longest-turbulent-subarray/description/",
     "page": 6
   },
@@ -183,17 +183,17 @@
     "id": "21",
     "num": 21,
     "title": "Contains Duplicate II",
-    "topic": "01 ARRAYS",
-    "subtopic": "Two Pointers",
+    "topic": "01 Arrays",
+    "subtopic": "Sliding Window (Fixed/Variable Size)",
     "practiceLink": "https://leetcode.com/problems/contains-duplicate-ii/description/",
     "page": 7
   },
   {
     "id": "22",
     "num": 22,
-    "title": "Number of Sub-arrays of Size K and Average ..",
-    "topic": "01 ARRAYS",
-    "subtopic": "Two Pointers",
+    "title": "Number of Sub-arrays of Size K and Average >=",
+    "topic": "01 Arrays",
+    "subtopic": "Sliding Window (Fixed/Variable Size)",
     "practiceLink": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/",
     "page": 7
   },
@@ -201,8 +201,8 @@
     "id": "23",
     "num": 23,
     "title": "Minimum Size Subarray Sum",
-    "topic": "01 ARRAYS",
-    "subtopic": "Two Pointers",
+    "topic": "01 Arrays",
+    "subtopic": "Sliding Window (Fixed/Variable Size)",
     "practiceLink": "https://leetcode.com/problems/minimum-size-subarray-sum/description/",
     "page": 7
   },
@@ -210,8 +210,8 @@
     "id": "24",
     "num": 24,
     "title": "Longest Substring Without Repeating Characters",
-    "topic": "01 ARRAYS",
-    "subtopic": "Two Pointers",
+    "topic": "01 Arrays",
+    "subtopic": "Sliding Window (Fixed/Variable Size)",
     "practiceLink": "https://leetcode.com/problems/longest-substring-without-repeating-characters/description/",
     "page": 7
   },
@@ -219,16 +219,16 @@
     "id": "25",
     "num": 25,
     "title": "Longest Repeating Character Replacement",
-    "topic": "01 ARRAYS",
-    "subtopic": "Two Pointers",
+    "topic": "01 Arrays",
+    "subtopic": "Sliding Window (Fixed/Variable Size)",
     "practiceLink": "https://leetcode.com/problems/longest-repeating-character-replacement/description/",
     "page": 7
   },
   {
     "id": "26",
     "num": 26,
-    "title": "Algorithm  Container With Most Water",
-    "topic": "01 ARRAYS",
+    "title": "Container With Most Water",
+    "topic": "01 Arrays",
     "subtopic": "Two Pointers",
     "practiceLink": "https://leetcode.com/problems/container-with-most-water/description/",
     "page": 7
@@ -237,7 +237,7 @@
     "id": "27",
     "num": 27,
     "title": "Trapping Rain Water",
-    "topic": "01 ARRAYS",
+    "topic": "01 Arrays",
     "subtopic": "Two Pointers",
     "practiceLink": "https://leetcode.com/problems/trapping-rain-water/description/",
     "page": 8
@@ -246,7 +246,7 @@
     "id": "28",
     "num": 28,
     "title": "Two Sum II - Input Array Is Sorted",
-    "topic": "01 ARRAYS",
+    "topic": "01 Arrays",
     "subtopic": "Two Pointers",
     "practiceLink": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/",
     "page": 8
@@ -254,8 +254,8 @@
   {
     "id": "29",
     "num": 29,
-    "title": "K-diff Pairs in an Array",
-    "topic": "01 ARRAYS",
+    "title": "K-Diff Pairs in an Array",
+    "topic": "01 Arrays",
     "subtopic": "Two Pointers",
     "practiceLink": "https://leetcode.com/problems/k-diff-pairs-in-an-array/description/",
     "page": 8
@@ -264,7 +264,7 @@
     "id": "30",
     "num": 30,
     "title": "Find K Closest Elements",
-    "topic": "01 ARRAYS",
+    "topic": "01 Arrays",
     "subtopic": "Two Pointers",
     "practiceLink": "https://leetcode.com/problems/find-k-closest-elements/description/",
     "page": 8
@@ -272,8 +272,8 @@
   {
     "id": "31",
     "num": 31,
-    "title": "Search in Rotated Sorted Array",
-    "topic": "02 BINARY SEARCH",
+    "title": "Search In Rotated Sorted Array",
+    "topic": "02 Binary Search",
     "subtopic": "Binary Search",
     "practiceLink": "https://leetcode.com/problems/search-in-rotated-sorted-array/description/",
     "page": 9
@@ -282,7 +282,7 @@
     "id": "32",
     "num": 32,
     "title": "Remove Duplicates from Sorted Array",
-    "topic": "02 BINARY SEARCH",
+    "topic": "02 Binary Search",
     "subtopic": "Binary Search",
     "practiceLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/",
     "page": 9
@@ -290,8 +290,8 @@
   {
     "id": "33",
     "num": 33,
-    "title": "Find First and Last Position of Element in Sorted Array",
-    "topic": "02 BINARY SEARCH",
+    "title": "Find First And Last Position Of Element In Sorted Array",
+    "topic": "02 Binary Search",
     "subtopic": "Binary Search",
     "practiceLink": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/",
     "page": 9
@@ -299,8 +299,8 @@
   {
     "id": "34",
     "num": 34,
-    "title": "Search a 2D Matrix",
-    "topic": "02 BINARY SEARCH",
+    "title": "Search A 2D Matrix",
+    "topic": "02 Binary Search",
     "subtopic": "Binary Search",
     "practiceLink": "https://leetcode.com/problems/search-a-2d-matrix/description/",
     "page": 9
@@ -309,7 +309,7 @@
     "id": "35",
     "num": 35,
     "title": "Find Peak Element",
-    "topic": "02 BINARY SEARCH",
+    "topic": "02 Binary Search",
     "subtopic": "Binary Search",
     "practiceLink": "https://leetcode.com/problems/find-peak-element/description/",
     "page": 9
@@ -317,8 +317,8 @@
   {
     "id": "36",
     "num": 36,
-    "title": "Single Element in a Sorted Array",
-    "topic": "02 BINARY SEARCH",
+    "title": "Single Element In A Sorted Array",
+    "topic": "02 Binary Search",
     "subtopic": "Binary Search",
     "practiceLink": "https://leetcode.com/problems/single-element-in-a-sorted-array/description/",
     "page": 9
@@ -326,8 +326,8 @@
   {
     "id": "37",
     "num": 37,
-    "title": "Preimage Size of Factorial Zeroes Function",
-    "topic": "02 BINARY SEARCH",
+    "title": "Preimage Size Of Factorial Zeroes Function",
+    "topic": "02 Binary Search",
     "subtopic": "Binary Search",
     "practiceLink": "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/",
     "page": 9
@@ -335,8 +335,8 @@
   {
     "id": "38",
     "num": 38,
-    "title": "Check if Two Arrays Are Equal or Not",
-    "topic": "03 SORTING",
+    "title": "Check If Two Arrays Are Equal Or Not",
+    "topic": "03 Sorting",
     "subtopic": "Sorting",
     "practiceLink": "https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1",
     "page": 10
@@ -345,7 +345,7 @@
     "id": "39",
     "num": 39,
     "title": "Binary Array Sorting",
-    "topic": "03 SORTING",
+    "topic": "03 Sorting",
     "subtopic": "Sorting",
     "practiceLink": "https://www.geeksforgeeks.org/problems/binary-array-sorting-1587115620/0",
     "page": 10
@@ -354,7 +354,7 @@
     "id": "40",
     "num": 40,
     "title": "Sort Colors",
-    "topic": "03 SORTING",
+    "topic": "03 Sorting",
     "subtopic": "Sorting",
     "practiceLink": "https://leetcode.com/problems/sort-colors/description/",
     "page": 10
@@ -362,8 +362,8 @@
   {
     "id": "41",
     "num": 41,
-    "title": "Kth Largest Element in an Array",
-    "topic": "03 SORTING",
+    "title": "Kth Largest Element In An Array",
+    "topic": "03 Sorting",
     "subtopic": "Sorting",
     "practiceLink": "https://leetcode.com/problems/kth-largest-element-in-an-array/description/",
     "page": 10
@@ -372,7 +372,7 @@
     "id": "42",
     "num": 42,
     "title": "Minimum Absolute Difference",
-    "topic": "03 SORTING",
+    "topic": "03 Sorting",
     "subtopic": "Sorting",
     "practiceLink": "https://leetcode.com/problems/minimum-absolute-difference/description/",
     "page": 10
@@ -380,8 +380,8 @@
   {
     "id": "43",
     "num": 43,
-    "title": "K Closest Points to Origin",
-    "topic": "03 SORTING",
+    "title": "K Closest Points To Origin",
+    "topic": "03 Sorting",
     "subtopic": "Sorting",
     "practiceLink": "https://leetcode.com/problems/k-closest-points-to-origin/description/",
     "page": 10
@@ -390,7 +390,7 @@
     "id": "44",
     "num": 44,
     "title": "Max Chunks To Make Sorted",
-    "topic": "03 SORTING",
+    "topic": "03 Sorting",
     "subtopic": "Sorting",
     "practiceLink": "https://leetcode.com/problems/max-chunks-to-make-sorted/description/",
     "page": 10
@@ -399,7 +399,7 @@
     "id": "45",
     "num": 45,
     "title": "Contiguous Array",
-    "topic": "04 HASHING",
+    "topic": "04 Hashing",
     "subtopic": "Hashing",
     "practiceLink": "https://leetcode.com/problems/contiguous-array/description/",
     "page": 11
@@ -408,7 +408,7 @@
     "id": "46",
     "num": 46,
     "title": "Longest Consecutive Sequence",
-    "topic": "04 HASHING",
+    "topic": "04 Hashing",
     "subtopic": "Hashing",
     "practiceLink": "https://leetcode.com/problems/longest-consecutive-sequence/description/",
     "page": 11
@@ -417,7 +417,7 @@
     "id": "47",
     "num": 47,
     "title": "Subarray Sum Equals K",
-    "topic": "04 HASHING",
+    "topic": "04 Hashing",
     "subtopic": "Hashing",
     "practiceLink": "https://leetcode.com/problems/subarray-sum-equals-k/description/",
     "page": 11
@@ -426,7 +426,7 @@
     "id": "48",
     "num": 48,
     "title": "Valid Anagram",
-    "topic": "04 HASHING",
+    "topic": "04 Hashing",
     "subtopic": "Hashing",
     "practiceLink": "https://leetcode.com/problems/valid-anagram/description/",
     "page": 11
@@ -435,7 +435,7 @@
     "id": "49",
     "num": 49,
     "title": "Valid Sudoku",
-    "topic": "04 HASHING",
+    "topic": "04 Hashing",
     "subtopic": "Hashing",
     "practiceLink": "https://leetcode.com/problems/valid-sudoku/description/",
     "page": 11
@@ -444,7 +444,7 @@
     "id": "50",
     "num": 50,
     "title": "Ugly Number II",
-    "topic": "04 HASHING",
+    "topic": "04 Hashing",
     "subtopic": "Hashing",
     "practiceLink": "https://leetcode.com/problems/ugly-number-ii/description/",
     "page": 11
@@ -453,7 +453,7 @@
     "id": "51",
     "num": 51,
     "title": "Subarray Sum Equals K",
-    "topic": "04 HASHING",
+    "topic": "04 Hashing",
     "subtopic": "Hashing",
     "practiceLink": "https://leetcode.com/problems/subarray-sum-equals-k/description/",
     "page": 11
@@ -461,8 +461,8 @@
   {
     "id": "52",
     "num": 52,
-    "title": "Max Points on a Line",
-    "topic": "04 HASHING",
+    "title": "Max Points On A Line",
+    "topic": "04 Hashing",
     "subtopic": "Hashing",
     "practiceLink": "https://leetcode.com/problems/max-points-on-a-line/description/",
     "page": 12
@@ -471,7 +471,7 @@
     "id": "53",
     "num": 53,
     "title": "Palindrome Pairs",
-    "topic": "04 HASHING",
+    "topic": "04 Hashing",
     "subtopic": "Hashing",
     "practiceLink": "https://leetcode.com/problems/palindrome-pairs/description/",
     "page": 12
@@ -479,18 +479,18 @@
   {
     "id": "54",
     "num": 54,
-    "title": "Middle of the Linked List",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "title": "Middle Of The Linked List",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/middle-of-the-linked-list/description/",
     "page": 13
   },
   {
     "id": "55",
     "num": 55,
-    "title": "Maximum Twin Sum of a Linked List",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "title": "Maximum Twin Sum Of A Linked List",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/",
     "page": 13
   },
@@ -498,8 +498,8 @@
     "id": "56",
     "num": 56,
     "title": "Merge Two Sorted Lists",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/merge-two-sorted-lists/description/",
     "page": 13
   },
@@ -507,26 +507,26 @@
     "id": "57",
     "num": 57,
     "title": "Linked List Cycle",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/linked-list-cycle/description/",
     "page": 13
   },
   {
     "id": "58",
     "num": 58,
-    "title": "Reverse Nodes in k- Group",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "title": "Reverse Nodes In K-Group",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/reverse-nodes-in-k-group/description/",
     "page": 13
   },
   {
     "id": "59",
     "num": 59,
-    "title": "Remove Nth Node From End of List",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "title": "Remove Nth Node From End Of List",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
     "page": 13
   },
@@ -534,17 +534,17 @@
     "id": "60",
     "num": 60,
     "title": "Linked List Cycle II",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/linked-list-cycle-ii/",
     "page": 13
   },
   {
     "id": "61",
     "num": 61,
-    "title": "Delete Node in a Linked List",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "title": "Delete Node In A Linked List",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
     "page": 14
   },
@@ -552,8 +552,8 @@
     "id": "62",
     "num": 62,
     "title": "Reverse Linked List",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/reverse-linked-list/",
     "page": 14
   },
@@ -561,8 +561,8 @@
     "id": "63",
     "num": 63,
     "title": "Palindrome Linked List",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/palindrome-linked-list/",
     "page": 14
   },
@@ -570,26 +570,26 @@
     "id": "64",
     "num": 64,
     "title": "Remove Linked List Elements",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/remove-linked-list-elements/",
     "page": 14
   },
   {
     "id": "65",
     "num": 65,
-    "title": "Convert Binary Number in a Linked List to Integer",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "title": "Convert Binary Number In A Linked List To Integer",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
     "page": 14
   },
   {
     "id": "66",
     "num": 66,
-    "title": "Remove Duplicates from Sorted List II",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "title": "Remove Duplicates From Sorted List II",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
     "page": 14
   },
@@ -597,8 +597,8 @@
     "id": "67",
     "num": 67,
     "title": "Reverse Linked List II",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/reverse-linked-list-ii/",
     "page": 14
   },
@@ -606,16 +606,16 @@
     "id": "68",
     "num": 68,
     "title": "Sort List",
-    "topic": "05 LINKED LISTS",
-    "subtopic": "Linked Lists",
+    "topic": "05 Linked Lists",
+    "subtopic": "Linked List",
     "practiceLink": "https://leetcode.com/problems/sort-list/",
     "page": 14
   },
   {
     "id": "69",
     "num": 69,
-    "title": "Implement Stack using Queues",
-    "topic": "06 STACK AND QUEUE",
+    "title": "Implement Stack Using Queues",
+    "topic": "06 Stack and Queue",
     "subtopic": "Stack and Queue",
     "practiceLink": "https://leetcode.com/problems/implement-stack-using-queues/description/",
     "page": 15
@@ -623,8 +623,8 @@
   {
     "id": "70",
     "num": 70,
-    "title": "Implement Queue using Stacks",
-    "topic": "06 STACK AND QUEUE",
+    "title": "Implement Queue Using Stacks",
+    "topic": "06 Stack and Queue",
     "subtopic": "Stack and Queue",
     "practiceLink": "https://leetcode.com/problems/implement-queue-using-stacks/description/",
     "page": 15
@@ -633,7 +633,7 @@
     "id": "71",
     "num": 71,
     "title": "Backspace String Compare",
-    "topic": "06 STACK AND QUEUE",
+    "topic": "06 Stack and Queue",
     "subtopic": "Stack and Queue",
     "practiceLink": "https://leetcode.com/problems/backspace-string-compare/description/",
     "page": 15
@@ -642,7 +642,7 @@
     "id": "72",
     "num": 72,
     "title": "Baseball Game",
-    "topic": "06 STACK AND QUEUE",
+    "topic": "06 Stack and Queue",
     "subtopic": "Stack and Queue",
     "practiceLink": "https://leetcode.com/problems/baseball-game/description/",
     "page": 15
@@ -651,7 +651,7 @@
     "id": "73",
     "num": 73,
     "title": "Longest Valid Parentheses",
-    "topic": "06 STACK AND QUEUE",
+    "topic": "06 Stack and Queue",
     "subtopic": "Stack and Queue",
     "practiceLink": "https://leetcode.com/problems/longest-valid-parentheses/description/",
     "page": 15
@@ -660,7 +660,7 @@
     "id": "74",
     "num": 74,
     "title": "Evaluate Reverse Polish Notation",
-    "topic": "06 STACK AND QUEUE",
+    "topic": "06 Stack and Queue",
     "subtopic": "Stack and Queue",
     "practiceLink": "https://leetcode.com/problems/evaluate-reverse-polish-notation/description/",
     "page": 15
@@ -669,7 +669,7 @@
     "id": "75",
     "num": 75,
     "title": "Daily Temperatures",
-    "topic": "06 STACK AND QUEUE",
+    "topic": "06 Stack and Queue",
     "subtopic": "Stack and Queue",
     "practiceLink": "https://leetcode.com/problems/daily-temperatures/description/",
     "page": 15
@@ -677,8 +677,8 @@
   {
     "id": "76",
     "num": 76,
-    "title": "Largest Rectangle in Histogram",
-    "topic": "06 STACK AND QUEUE",
+    "title": "Largest Rectangle In Histogram",
+    "topic": "06 Stack and Queue",
     "subtopic": "Stack and Queue",
     "practiceLink": "https://leetcode.com/problems/largest-rectangle-in-histogram/description/",
     "page": 16
@@ -687,7 +687,7 @@
     "id": "77",
     "num": 77,
     "title": "Min Stack",
-    "topic": "06 STACK AND QUEUE",
+    "topic": "06 Stack and Queue",
     "subtopic": "Stack and Queue",
     "practiceLink": "https://leetcode.com/problems/min-stack/description/",
     "page": 16
@@ -695,8 +695,8 @@
   {
     "id": "78",
     "num": 78,
-    "title": "Minimum Remove to Make Valid Parentheses",
-    "topic": "06 STACK AND QUEUE",
+    "title": "Minimum Remove To Make Valid Parentheses",
+    "topic": "06 Stack and Queue",
     "subtopic": "Stack and Queue",
     "practiceLink": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/",
     "page": 16
@@ -704,8 +704,8 @@
   {
     "id": "79",
     "num": 79,
-    "title": "Find Median from Data Stream",
-    "topic": "07 HEAP",
+    "title": "Find Median From Data Stream",
+    "topic": "07 Heap",
     "subtopic": "Heap",
     "practiceLink": "https://leetcode.com/problems/find-median-from-data-stream/description/",
     "page": 17
@@ -713,8 +713,8 @@
   {
     "id": "80",
     "num": 80,
-    "title": "Merge k Sorted Lists",
-    "topic": "07 HEAP",
+    "title": "Merge K Sorted Lists",
+    "topic": "07 Heap",
     "subtopic": "Heap",
     "practiceLink": "https://leetcode.com/problems/merge-k-sorted-lists/description/",
     "page": 17
@@ -722,8 +722,8 @@
   {
     "id": "81",
     "num": 81,
-    "title": "Find K Pairs with Smallest Sums",
-    "topic": "07 HEAP",
+    "title": "Find K Pairs With Smallest Sums",
+    "topic": "07 Heap",
     "subtopic": "Heap",
     "practiceLink": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/",
     "page": 17
@@ -732,7 +732,7 @@
     "id": "82",
     "num": 82,
     "title": "Meeting Rooms II",
-    "topic": "07 HEAP",
+    "topic": "07 Heap",
     "subtopic": "Heap",
     "practiceLink": "https://leetcode.com/problems/meeting-rooms-ii/description/",
     "page": 17
@@ -741,7 +741,7 @@
     "id": "83",
     "num": 83,
     "title": "Top K Frequent Elements",
-    "topic": "07 HEAP",
+    "topic": "07 Heap",
     "subtopic": "Heap",
     "practiceLink": "https://leetcode.com/problems/top-k-frequent-elements/description/",
     "page": 17
@@ -749,8 +749,8 @@
   {
     "id": "84",
     "num": 84,
-    "title": "K Closest Points to Origin",
-    "topic": "07 HEAP",
+    "title": "K Closest Points To Origin",
+    "topic": "07 Heap",
     "subtopic": "Heap",
     "practiceLink": "https://leetcode.com/problems/k-closest-points-to-origin/description/",
     "page": 17
@@ -759,7 +759,7 @@
     "id": "85",
     "num": 85,
     "title": "Count Good Numbers",
-    "topic": "07 RECURSION & BACKTRACKING",
+    "topic": "08 Recursion & Backtracking",
     "subtopic": "Recursion",
     "practiceLink": "https://leetcode.com/problems/count-good-numbers/description/",
     "page": 18
@@ -768,7 +768,7 @@
     "id": "86",
     "num": 86,
     "title": "Permutations",
-    "topic": "07 RECURSION & BACKTRACKING",
+    "topic": "08 Recursion & Backtracking",
     "subtopic": "Recursion",
     "practiceLink": "https://leetcode.com/problems/permutations/description/",
     "page": 18
@@ -777,8 +777,8 @@
     "id": "87",
     "num": 87,
     "title": "Permutations II",
-    "topic": "07 RECURSION & BACKTRACKING",
-    "subtopic": "Backtracking",
+    "topic": "08 Recursion & Backtracking",
+    "subtopic": "Recursion",
     "practiceLink": "https://leetcode.com/problems/permutations-ii/description/",
     "page": 18
   },
@@ -786,8 +786,8 @@
     "id": "88",
     "num": 88,
     "title": "Subsets",
-    "topic": "07 RECURSION & BACKTRACKING",
-    "subtopic": "Backtracking",
+    "topic": "08 Recursion & Backtracking",
+    "subtopic": "Recursion",
     "practiceLink": "https://leetcode.com/problems/subsets/description/",
     "page": 18
   },
@@ -795,8 +795,8 @@
     "id": "89",
     "num": 89,
     "title": "Basic Calculator",
-    "topic": "07 RECURSION & BACKTRACKING",
-    "subtopic": "Backtracking",
+    "topic": "08 Recursion & Backtracking",
+    "subtopic": "Recursion",
     "practiceLink": "https://leetcode.com/problems/basic-calculator/description/",
     "page": 18
   },
@@ -804,8 +804,8 @@
     "id": "90",
     "num": 90,
     "title": "Wildcard Matching",
-    "topic": "07 RECURSION & BACKTRACKING",
-    "subtopic": "Backtracking",
+    "topic": "08 Recursion & Backtracking",
+    "subtopic": "Recursion",
     "practiceLink": "https://leetcode.com/problems/wildcard-matching/description/",
     "page": 18
   },
@@ -813,7 +813,7 @@
     "id": "91",
     "num": 91,
     "title": "Combinations",
-    "topic": "07 RECURSION & BACKTRACKING",
+    "topic": "08 Recursion & Backtracking",
     "subtopic": "Backtracking",
     "practiceLink": "https://leetcode.com/problems/combinations/description/",
     "page": 19
@@ -822,7 +822,7 @@
     "id": "92",
     "num": 92,
     "title": "Combination Sum",
-    "topic": "07 RECURSION & BACKTRACKING",
+    "topic": "08 Recursion & Backtracking",
     "subtopic": "Backtracking",
     "practiceLink": "https://leetcode.com/problems/combination-sum/description/",
     "page": 19
@@ -831,7 +831,7 @@
     "id": "93",
     "num": 93,
     "title": "Combination Sum III",
-    "topic": "07 RECURSION & BACKTRACKING",
+    "topic": "08 Recursion & Backtracking",
     "subtopic": "Backtracking",
     "practiceLink": "https://leetcode.com/problems/combination-sum-iii/description/",
     "page": 19
@@ -839,8 +839,8 @@
   {
     "id": "94",
     "num": 94,
-    "title": "Letter Combinations of a Phone Number",
-    "topic": "07 RECURSION & BACKTRACKING",
+    "title": "Letter Combinations Of A Phone Number",
+    "topic": "08 Recursion & Backtracking",
     "subtopic": "Backtracking",
     "practiceLink": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/",
     "page": 19
@@ -849,7 +849,7 @@
     "id": "95",
     "num": 95,
     "title": "Gray Code",
-    "topic": "07 RECURSION & BACKTRACKING",
+    "topic": "08 Recursion & Backtracking",
     "subtopic": "Backtracking",
     "practiceLink": "https://leetcode.com/problems/gray-code/description/",
     "page": 19
@@ -858,7 +858,7 @@
     "id": "96",
     "num": 96,
     "title": "Letter Case Permutation",
-    "topic": "07 RECURSION & BACKTRACKING",
+    "topic": "08 Recursion & Backtracking",
     "subtopic": "Backtracking",
     "practiceLink": "https://leetcode.com/problems/letter-case-permutation/description/",
     "page": 19
@@ -867,7 +867,7 @@
     "id": "97",
     "num": 97,
     "title": "N-Queens",
-    "topic": "07 RECURSION & BACKTRACKING",
+    "topic": "08 Recursion & Backtracking",
     "subtopic": "Backtracking",
     "practiceLink": "https://leetcode.com/problems/n-queens/description/",
     "page": 19
@@ -876,7 +876,7 @@
     "id": "98",
     "num": 98,
     "title": "Sudoku Solver",
-    "topic": "07 RECURSION & BACKTRACKING",
+    "topic": "08 Recursion & Backtracking",
     "subtopic": "Backtracking",
     "practiceLink": "https://leetcode.com/problems/sudoku-solver/description/",
     "page": 19
@@ -884,18 +884,18 @@
   {
     "id": "99",
     "num": 99,
-    "title": "from Inorder and Postorder Traversal",
-    "topic": "08 TREES",
-    "subtopic": "Level Order Traversal (BFS)",
+    "title": "Construct Binary Tree From Inorder And Postorder Traversal",
+    "topic": "09 Trees",
+    "subtopic": "Binary Tree",
     "practiceLink": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/",
     "page": 20
   },
   {
     "id": "100",
     "num": 100,
-    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
-    "topic": "08 TREES",
-    "subtopic": "Level Order Traversal (BFS)",
+    "title": "Construct Binary Tree From Preorder And Inorder Traversal",
+    "topic": "09 Trees",
+    "subtopic": "Binary Tree",
     "practiceLink": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/",
     "page": 20
   },
@@ -903,8 +903,8 @@
     "id": "101",
     "num": 101,
     "title": "Path Sum",
-    "topic": "08 TREES",
-    "subtopic": "Level Order Traversal (BFS)",
+    "topic": "09 Trees",
+    "subtopic": "Binary Tree",
     "practiceLink": "https://leetcode.com/problems/path-sum/description/",
     "page": 20
   },
@@ -912,17 +912,17 @@
     "id": "102",
     "num": 102,
     "title": "Same Tree",
-    "topic": "08 TREES",
-    "subtopic": "DFS (Recursive & Iterative)",
+    "topic": "09 Trees",
+    "subtopic": "Binary Tree",
     "practiceLink": "https://leetcode.com/problems/same-tree/description/",
     "page": 20
   },
   {
     "id": "103",
     "num": 103,
-    "title": "Algorithm  Binary Tree Level Order Traversal",
-    "topic": "08 TREES",
-    "subtopic": "DFS (Recursive & Iterative)",
+    "title": "Binary Tree Level Order Traversal",
+    "topic": "09 Trees",
+    "subtopic": "Level Order Traversal (BFS)",
     "practiceLink": "https://leetcode.com/problems/binary-tree-level-order-traversal/description/",
     "page": 20
   },
@@ -930,8 +930,8 @@
     "id": "104",
     "num": 104,
     "title": "Invert Binary Tree",
-    "topic": "08 TREES",
-    "subtopic": "DFS (Recursive & Iterative)",
+    "topic": "09 Trees",
+    "subtopic": "Level Order Traversal (BFS)",
     "practiceLink": "https://leetcode.com/problems/invert-binary-tree/description/",
     "page": 21
   },
@@ -939,8 +939,8 @@
     "id": "105",
     "num": 105,
     "title": "Minimum Cost Tree From Leaf Values",
-    "topic": "08 TREES",
-    "subtopic": "DFS (Recursive & Iterative)",
+    "topic": "09 Trees",
+    "subtopic": "Level Order Traversal (BFS)",
     "practiceLink": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/",
     "page": 21
   },
@@ -948,26 +948,26 @@
     "id": "106",
     "num": 106,
     "title": "Binary Tree Zigzag Level Order Traversal",
-    "topic": "08 TREES",
-    "subtopic": "DFS (Recursive & Iterative)",
+    "topic": "09 Trees",
+    "subtopic": "Level Order Traversal (BFS)",
     "practiceLink": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/",
     "page": 21
   },
   {
     "id": "107",
     "num": 107,
-    "title": "Algorithm  Maximum Depth of Binary Tree",
-    "topic": "08 TREES",
-    "subtopic": "BST",
+    "title": "Maximum Depth Of Binary Tree",
+    "topic": "09 Trees",
+    "subtopic": "DFS (Recursive & Iterative)",
     "practiceLink": "https://leetcode.com/problems/maximum-depth-of-binary-tree/description/",
     "page": 21
   },
   {
     "id": "108",
     "num": 108,
-    "title": "Sum of Left Leaves",
-    "topic": "08 TREES",
-    "subtopic": "BST",
+    "title": "Sum Of Left Leaves",
+    "topic": "09 Trees",
+    "subtopic": "DFS (Recursive & Iterative)",
     "practiceLink": "https://leetcode.com/problems/sum-of-left-leaves/description/",
     "page": 21
   },
@@ -975,8 +975,8 @@
     "id": "109",
     "num": 109,
     "title": "Binary Tree Right Side View",
-    "topic": "08 TREES",
-    "subtopic": "BST",
+    "topic": "09 Trees",
+    "subtopic": "DFS (Recursive & Iterative)",
     "practiceLink": "https://leetcode.com/problems/binary-tree-right-side-view/description/",
     "page": 21
   },
@@ -984,8 +984,8 @@
     "id": "110",
     "num": 110,
     "title": "Path Sum II",
-    "topic": "08 TREES",
-    "subtopic": "BST",
+    "topic": "09 Trees",
+    "subtopic": "DFS (Recursive & Iterative)",
     "practiceLink": "https://leetcode.com/problems/path-sum-ii/description/",
     "page": 21
   },
@@ -993,16 +993,16 @@
     "id": "111",
     "num": 111,
     "title": "Path Sum III",
-    "topic": "08 TREES",
-    "subtopic": "BST",
+    "topic": "09 Trees",
+    "subtopic": "DFS (Recursive & Iterative)",
     "practiceLink": "https://leetcode.com/problems/path-sum-iii/description/",
     "page": 22
   },
   {
     "id": "112",
     "num": 112,
-    "title": "Algorithm  Lowest Common Ancestor of a Binary Search Tree",
-    "topic": "08 TREES",
+    "title": "Lowest Common Ancestor Of A Binary Search Tree",
+    "topic": "09 Trees",
     "subtopic": "BST",
     "practiceLink": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/",
     "page": 22
@@ -1011,7 +1011,7 @@
     "id": "113",
     "num": 113,
     "title": "Closest Binary Search Tree Value II",
-    "topic": "08 TREES",
+    "topic": "09 Trees",
     "subtopic": "BST",
     "practiceLink": "https://leetcode.com/problems/closest-binary-search-tree-value-ii/description",
     "page": 22
@@ -1019,8 +1019,8 @@
   {
     "id": "114",
     "num": 114,
-    "title": "Trim a Binary Search Tree",
-    "topic": "08 TREES",
+    "title": "Trim A Binary Search Tree",
+    "topic": "09 Trees",
     "subtopic": "BST",
     "practiceLink": "https://leetcode.com/problems/trim-a-binary-search-tree/description/",
     "page": 22
@@ -1028,8 +1028,8 @@
   {
     "id": "115",
     "num": 115,
-    "title": "Search in a Binary Search Tree",
-    "topic": "08 TREES",
+    "title": "Search In A Binary Search Tree",
+    "topic": "09 Trees",
     "subtopic": "BST",
     "practiceLink": "https://leetcode.com/problems/search-in-a-binary-search-tree/description/",
     "page": 22
@@ -1037,8 +1037,8 @@
   {
     "id": "116",
     "num": 116,
-    "title": "Queue Reconstruction by Height",
-    "topic": "09 TREES II",
+    "title": "Queue Reconstruction By Height",
+    "topic": "10 Trees II",
     "subtopic": "BBST (AVL Tree)",
     "practiceLink": "https://leetcode.com/problems/queue-reconstruction-by-height/description/",
     "page": 23
@@ -1047,7 +1047,7 @@
     "id": "117",
     "num": 117,
     "title": "Binary Tree Pruning",
-    "topic": "09 TREES II",
+    "topic": "10 Trees II",
     "subtopic": "BBST (AVL Tree)",
     "practiceLink": "https://leetcode.com/problems/binary-tree-pruning/description/",
     "page": 23
@@ -1055,9 +1055,9 @@
   {
     "id": "118",
     "num": 118,
-    "title": "Balance a Binary Search Tree",
-    "topic": "09 TREES II",
-    "subtopic": "Trie",
+    "title": "Balance A Binary Search Tree",
+    "topic": "10 Trees II",
+    "subtopic": "BBST (AVL Tree)",
     "practiceLink": "https://leetcode.com/problems/balance-a-binary-search-tree/description/",
     "page": 23
   },
@@ -1065,26 +1065,26 @@
     "id": "119",
     "num": 119,
     "title": "Balanced Binary Tree",
-    "topic": "09 TREES II",
-    "subtopic": "Trie",
+    "topic": "10 Trees II",
+    "subtopic": "BBST (AVL Tree)",
     "practiceLink": "https://leetcode.com/problems/balanced-binary-tree/description/",
     "page": 23
   },
   {
     "id": "120",
     "num": 120,
-    "title": "Algorithm  Implement Trie (Prefix Tree)",
-    "topic": "09 TREES II",
-    "subtopic": "Union-Find (Disjoint Set)",
+    "title": "Implement Trie (Prefix Tree)",
+    "topic": "10 Trees II",
+    "subtopic": "Trie",
     "practiceLink": "https://leetcode.com/problems/implement-trie-prefix-tree/description/",
     "page": 23
   },
   {
     "id": "121",
     "num": 121,
-    "title": "Search Words Data Structure",
-    "topic": "09 TREES II",
-    "subtopic": "Union-Find (Disjoint Set)",
+    "title": "Design Add And Search Words Data Structure",
+    "topic": "10 Trees II",
+    "subtopic": "Trie",
     "practiceLink": "https://leetcode.com/problems/design-add-and-search-words-data-structure/description/",
     "page": 24
   },
@@ -1092,17 +1092,17 @@
     "id": "122",
     "num": 122,
     "title": "Word Search II",
-    "topic": "09 TREES II",
-    "subtopic": "Union-Find (Disjoint Set)",
+    "topic": "10 Trees II",
+    "subtopic": "Trie",
     "practiceLink": "https://leetcode.com/problems/word-search-ii/description/",
     "page": 24
   },
   {
     "id": "123",
     "num": 123,
-    "title": "Algorithm  Redundant Connection",
-    "topic": "09 TREES II",
-    "subtopic": "Union-Find (Disjoint Set)",
+    "title": "Redundant Connection",
+    "topic": "10 Trees II",
+    "subtopic": "Disjoint Set",
     "practiceLink": "https://leetcode.com/problems/redundant-connection/description/",
     "page": 24
   },
@@ -1110,16 +1110,16 @@
     "id": "124",
     "num": 124,
     "title": "Accounts Merge",
-    "topic": "09 TREES II",
-    "subtopic": "Union-Find (Disjoint Set)",
+    "topic": "10 Trees II",
+    "subtopic": "Disjoint Set",
     "practiceLink": "https://leetcode.com/problems/accounts-merge/description/",
     "page": 24
   },
   {
     "id": "125",
     "num": 125,
-    "title": "Algorithm  Range Sum Query Mutable",
-    "topic": "09 TREES II",
+    "title": "Range Sum Query Mutable",
+    "topic": "10 Trees II",
     "subtopic": "Segment Tree (Range Queries)",
     "practiceLink": "https://leetcode.com/problems/range-sum-query-mutable/description/",
     "page": 24
@@ -1128,7 +1128,7 @@
     "id": "126",
     "num": 126,
     "title": "Longest Increasing Subsequence II",
-    "topic": "09 TREES II",
+    "topic": "10 Trees II",
     "subtopic": "Segment Tree (Range Queries)",
     "practiceLink": "https://leetcode.com/problems/longest-increasing-subsequence-ii/description/",
     "page": 25
@@ -1137,7 +1137,7 @@
     "id": "127",
     "num": 127,
     "title": "Rotting Oranges",
-    "topic": "10 GRAPHS",
+    "topic": "11 Graphs",
     "subtopic": "BFS & DFS",
     "practiceLink": "https://leetcode.com/problems/rotting-oranges/description/",
     "page": 26
@@ -1146,44 +1146,44 @@
     "id": "128",
     "num": 128,
     "title": "Word Ladder",
-    "topic": "10 GRAPHS",
-    "subtopic": "Detect Cycle in Undirected/Directed Graph",
+    "topic": "11 Graphs",
+    "subtopic": "BFS & DFS",
     "practiceLink": "https://leetcode.com/problems/word-ladder/description/",
     "page": 26
   },
   {
     "id": "129",
     "num": 129,
-    "title": "Number of Provinces",
-    "topic": "10 GRAPHS",
-    "subtopic": "Detect Cycle in Undirected/Directed Graph",
+    "title": "Number Of Provinces",
+    "topic": "11 Graphs",
+    "subtopic": "BFS & DFS",
     "practiceLink": "https://leetcode.com/problems/number-of-provinces/description/",
     "page": 26
   },
   {
     "id": "130",
     "num": 130,
-    "title": "Number of Enclaves",
-    "topic": "10 GRAPHS",
-    "subtopic": "Detect Cycle in Undirected/Directed Graph",
+    "title": "Number Of Enclaves",
+    "topic": "11 Graphs",
+    "subtopic": "BFS & DFS",
     "practiceLink": "https://leetcode.com/problems/number-of-enclaves/description/",
     "page": 26
   },
   {
     "id": "131",
     "num": 131,
-    "title": "Algorithm  Detect Cycle in an Undirected Graph",
-    "topic": "10 GRAPHS",
-    "subtopic": "Dijkstra's Algorithm (SSSP)",
+    "title": "Detect Cycle In An Undirected Graph",
+    "topic": "11 Graphs",
+    "subtopic": "Detect Cycle in Undirected/Directed Graph",
     "practiceLink": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
     "page": 26
   },
   {
     "id": "132",
     "num": 132,
-    "title": "Detect Cycle in a Directed Graph",
-    "topic": "10 GRAPHS",
-    "subtopic": "Dijkstra's Algorithm (SSSP)",
+    "title": "Detect Cycle In A Directed Graph",
+    "topic": "11 Graphs",
+    "subtopic": "Detect Cycle in Undirected/Directed Graph",
     "practiceLink": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
     "page": 27
   },
@@ -1191,8 +1191,8 @@
     "id": "133",
     "num": 133,
     "title": "Course Schedule",
-    "topic": "10 GRAPHS",
-    "subtopic": "Dijkstra's Algorithm (SSSP)",
+    "topic": "11 Graphs",
+    "subtopic": "Detect Cycle in Undirected/Directed Graph",
     "practiceLink": "https://leetcode.com/problems/course-schedule/description/",
     "page": 27
   },
@@ -1200,8 +1200,8 @@
     "id": "134",
     "num": 134,
     "title": "Course Schedule II",
-    "topic": "10 GRAPHS",
-    "subtopic": "Dijkstra's Algorithm (SSSP)",
+    "topic": "11 Graphs",
+    "subtopic": "Detect Cycle in Undirected/Directed Graph",
     "practiceLink": "https://leetcode.com/problems/course-schedule-ii/description/",
     "page": 27
   },
@@ -1209,8 +1209,8 @@
     "id": "135",
     "num": 135,
     "title": "Find Eventual Safe States",
-    "topic": "10 GRAPHS",
-    "subtopic": "Dijkstra's Algorithm (SSSP)",
+    "topic": "11 Graphs",
+    "subtopic": "Detect Cycle in Undirected/Directed Graph",
     "practiceLink": "https://leetcode.com/problems/find-eventual-safe-states/description/",
     "page": 27
   },
@@ -1218,16 +1218,16 @@
     "id": "136",
     "num": 136,
     "title": "Alien Dictionary",
-    "topic": "10 GRAPHS",
-    "subtopic": "Dijkstra's Algorithm (SSSP)",
+    "topic": "11 Graphs",
+    "subtopic": "Detect Cycle in Undirected/Directed Graph",
     "practiceLink": "https://leetcode.com/problems/alien-dictionary/description/",
     "page": 27
   },
   {
     "id": "137",
     "num": 137,
-    "title": "Algorithm  Network Delay Time",
-    "topic": "10 GRAPHS",
+    "title": "Network Delay Time",
+    "topic": "11 Graphs",
     "subtopic": "Dijkstra's Algorithm (SSSP)",
     "practiceLink": "https://leetcode.com/problems/network-delay-time/description/",
     "page": 27
@@ -1235,8 +1235,8 @@
   {
     "id": "138",
     "num": 138,
-    "title": "Shortest Path in Binary Matrix",
-    "topic": "10 GRAPHS",
+    "title": "Shortest Path In Binary Matrix",
+    "topic": "11 Graphs",
     "subtopic": "Dijkstra's Algorithm (SSSP)",
     "practiceLink": "https://leetcode.com/problems/shortest-path-in-binary-matrix/description/",
     "page": 27
@@ -1245,7 +1245,7 @@
     "id": "139",
     "num": 139,
     "title": "Path With Minimum Effort",
-    "topic": "10 GRAPHS",
+    "topic": "11 Graphs",
     "subtopic": "Dijkstra's Algorithm (SSSP)",
     "practiceLink": "https://leetcode.com/problems/path-with-minimum-effort/description/",
     "page": 28
@@ -1254,7 +1254,7 @@
     "id": "140",
     "num": 140,
     "title": "Cheapest Flights Within K Stops",
-    "topic": "10 GRAPHS",
+    "topic": "11 Graphs",
     "subtopic": "Dijkstra's Algorithm (SSSP)",
     "practiceLink": "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
     "page": 28
@@ -1262,17 +1262,17 @@
   {
     "id": "141",
     "num": 141,
-    "title": "Algorithm  Min Cost to Connect All Points",
-    "topic": "10 GRAPHS",
-    "subtopic": "Dijkstra's Algorithm (SSSP)",
+    "title": "Min Cost To Connect All Points",
+    "topic": "11 Graphs",
+    "subtopic": "Prim's & Kruskal's (MST)",
     "practiceLink": "https://leetcode.com/problems/min-cost-to-connect-all-points/description/",
     "page": 28
   },
   {
     "id": "142",
     "num": 142,
-    "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
-    "topic": "10 GRAPHS",
+    "title": "Find Critical And Pseudo-Critical Edges In Minimum Spanning Tree",
+    "topic": "11 Graphs",
     "subtopic": "Prim's & Kruskal's (MST)",
     "practiceLink": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/",
     "page": 28
@@ -1281,7 +1281,7 @@
     "id": "143",
     "num": 143,
     "title": "Connecting Cities With Minimum Cost",
-    "topic": "10 GRAPHS",
+    "topic": "11 Graphs",
     "subtopic": "Prim's & Kruskal's (MST)",
     "practiceLink": "https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/",
     "page": 28
@@ -1290,7 +1290,7 @@
     "id": "144",
     "num": 144,
     "title": "Course Schedule IV",
-    "topic": "10 GRAPHS",
+    "topic": "11 Graphs",
     "subtopic": "Floyd-Warshall (APSP)",
     "practiceLink": "https://leetcode.com/problems/course-schedule-iv/description/",
     "page": 29
@@ -1298,8 +1298,8 @@
   {
     "id": "145",
     "num": 145,
-    "title": "Find the City With the Smallest Number of Neighbors at a...",
-    "topic": "10 GRAPHS",
+    "title": "Find The City With The Smallest Number Of Neighbors At A Threshold Distance",
+    "topic": "11 Graphs",
     "subtopic": "Floyd-Warshall (APSP)",
     "practiceLink": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/",
     "page": 29
@@ -1307,8 +1307,8 @@
   {
     "id": "146",
     "num": 146,
-    "title": "Number of Ways to Arrive at Destination",
-    "topic": "10 GRAPHS",
+    "title": "Number Of Ways To Arrive At Destination",
+    "topic": "11 Graphs",
     "subtopic": "Floyd-Warshall (APSP)",
     "practiceLink": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description",
     "page": 29
@@ -1316,8 +1316,8 @@
   {
     "id": "147",
     "num": 147,
-    "title": "Non-overlapping Intervals",
-    "topic": "10 GREEDY",
+    "title": "Non-Overlapping Intervals",
+    "topic": "12 Greedy",
     "subtopic": "Greedy",
     "practiceLink": "https://leetcode.com/problems/non-overlapping-intervals/description/",
     "page": 30
@@ -1326,7 +1326,7 @@
     "id": "148",
     "num": 148,
     "title": "Minimum Platforms",
-    "topic": "10 GREEDY",
+    "topic": "12 Greedy",
     "subtopic": "Greedy",
     "practiceLink": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
     "page": 30
@@ -1335,7 +1335,7 @@
     "id": "149",
     "num": 149,
     "title": "Maximize Sum Of Array After K Negations",
-    "topic": "10 GREEDY",
+    "topic": "12 Greedy",
     "subtopic": "Greedy",
     "practiceLink": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/",
     "page": 30
@@ -1343,8 +1343,8 @@
   {
     "id": "150",
     "num": 150,
-    "title": "Assign Mice to Holes",
-    "topic": "10 GREEDY",
+    "title": "Assign Mice To Holes",
+    "topic": "12 Greedy",
     "subtopic": "Greedy",
     "practiceLink": "https://www.geeksforgeeks.org/problems/assign-mice-holes3053/1",
     "page": 30
@@ -1352,8 +1352,8 @@
   {
     "id": "151",
     "num": 151,
-    "title": "Maximum Product of Three Numbers",
-    "topic": "10 GREEDY",
+    "title": "Maximum Product Of Three Numbers",
+    "topic": "12 Greedy",
     "subtopic": "Greedy",
     "practiceLink": "https://leetcode.com/problems/maximum-product-of-three-numbers/description/",
     "page": 30
@@ -1362,7 +1362,7 @@
     "id": "152",
     "num": 152,
     "title": "Bulb Switcher",
-    "topic": "10 GREEDY",
+    "topic": "12 Greedy",
     "subtopic": "Greedy",
     "practiceLink": "https://leetcode.com/problems/bulb-switcher/description/",
     "page": 30
@@ -1371,7 +1371,7 @@
     "id": "153",
     "num": 153,
     "title": "Candy",
-    "topic": "10 GREEDY",
+    "topic": "12 Greedy",
     "subtopic": "Greedy",
     "practiceLink": "https://leetcode.com/problems/candy/description/",
     "page": 30
@@ -1380,7 +1380,7 @@
     "id": "154",
     "num": 154,
     "title": "Maximum Swap",
-    "topic": "10 GREEDY",
+    "topic": "12 Greedy",
     "subtopic": "Greedy",
     "practiceLink": "https://leetcode.com/problems/maximum-swap/description/",
     "page": 30
@@ -1389,7 +1389,7 @@
     "id": "155",
     "num": 155,
     "title": "Climbing Stairs",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "topic": "13 Dynamic Programming",
     "subtopic": "Climbing Stairs",
     "practiceLink": "https://leetcode.com/problems/climbing-stairs/description/",
     "page": 31
@@ -1398,8 +1398,8 @@
     "id": "156",
     "num": 156,
     "title": "Decode Ways",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "Coin Change (1D DP)",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "Climbing Stairs",
     "practiceLink": "https://leetcode.com/problems/decode-ways/description/",
     "page": 31
   },
@@ -1407,34 +1407,34 @@
     "id": "157",
     "num": 157,
     "title": "Frog Jump",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "Coin Change (1D DP)",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "Climbing Stairs",
     "practiceLink": "https://leetcode.com/problems/frog-jump/description/",
     "page": 31
   },
   {
     "id": "158",
     "num": 158,
-    "title": "Algorithm  Coin Change",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "Buy and Sell Stock",
+    "title": "Coin Change",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "Coin Change (1D DP)",
     "practiceLink": "https://leetcode.com/problems/coin-change/description/",
     "page": 31
   },
   {
     "id": "159",
     "num": 159,
-    "title": "Minimum Jumps to Reach Home",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "Buy and Sell Stock",
+    "title": "Minimum Jumps To Reach Home",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "Coin Change (1D DP)",
     "practiceLink": "https://leetcode.com/problems/minimum-jumps-to-reach-home/description/",
     "page": 31
   },
   {
     "id": "160",
     "num": 160,
-    "title": "Best Time to Buy and Sell Stock",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "title": "Best Time To Buy And Sell Stock",
+    "topic": "13 Dynamic Programming",
     "subtopic": "Buy and Sell Stock",
     "practiceLink": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/",
     "page": 32
@@ -1442,8 +1442,8 @@
   {
     "id": "161",
     "num": 161,
-    "title": "Best Time to Buy and Sell Stock II",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "title": "Best Time To Buy And Sell Stock II",
+    "topic": "13 Dynamic Programming",
     "subtopic": "Buy and Sell Stock",
     "practiceLink": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/",
     "page": 32
@@ -1451,8 +1451,8 @@
   {
     "id": "162",
     "num": 162,
-    "title": "Best Time to Buy and Sell Stock III",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "title": "Best Time To Buy And Sell Stock III",
+    "topic": "13 Dynamic Programming",
     "subtopic": "Buy and Sell Stock",
     "practiceLink": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/",
     "page": 32
@@ -1460,54 +1460,54 @@
   {
     "id": "163",
     "num": 163,
-    "title": "Best Time to Buy and Sell Stock IV",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "0/1 Knapsack",
+    "title": "Best Time To Buy And Sell Stock IV",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "Buy and Sell Stock",
     "practiceLink": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/",
     "page": 32
   },
   {
     "id": "164",
     "num": 164,
-    "title": "Best Time to Buy and Sell Stock with Cooldown",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "0/1 Knapsack",
+    "title": "Best Time To Buy And Sell Stock With Cooldown",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "Buy and Sell Stock",
     "practiceLink": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/",
     "page": 32
   },
   {
     "id": "165",
     "num": 165,
-    "title": "Best Time to Buy and Sell Stock with Transaction Fee",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "0/1 Knapsack",
+    "title": "Best Time To Buy And Sell Stock With Transaction Fee",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "Buy and Sell Stock",
     "practiceLink": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/",
     "page": 32
   },
   {
     "id": "166",
     "num": 166,
-    "title": "Algorithm  Partition Equal Subset Sum",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "Unbounded Knapsack",
+    "title": "Partition Equal Subset Sum",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "0/1 Knapsack",
     "practiceLink": "https://leetcode.com/problems/partition-equal-subset-sum/description/",
     "page": 32
   },
   {
     "id": "167",
     "num": 167,
-    "title": "Ones and Zeroes",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "Longest Common Subsequence (LCS)",
+    "title": "Ones And Zeroes",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "0/1 Knapsack",
     "practiceLink": "https://leetcode.com/problems/ones-and-zeroes/description/",
     "page": 33
   },
   {
     "id": "168",
     "num": 168,
-    "title": "Algorithm  Coin Change II",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "Longest Common Subsequence (LCS)",
+    "title": "Coin Change II",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "Unbounded Knapsack",
     "practiceLink": "https://leetcode.com/problems/coin-change-ii/description/",
     "page": 33
   },
@@ -1515,16 +1515,16 @@
     "id": "169",
     "num": 169,
     "title": "Last Stone Weight II",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "Longest Common Subsequence (LCS)",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "Unbounded Knapsack",
     "practiceLink": "https://leetcode.com/problems/last-stone-weight-ii/description/",
     "page": 33
   },
   {
     "id": "170",
     "num": 170,
-    "title": "Algorithm  Longest Common Subsequence",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "title": "Longest Common Subsequence",
+    "topic": "13 Dynamic Programming",
     "subtopic": "Longest Common Subsequence (LCS)",
     "practiceLink": "https://leetcode.com/problems/longest-common-subsequence/description/",
     "page": 33
@@ -1533,7 +1533,7 @@
     "id": "171",
     "num": 171,
     "title": "Edit Distance",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "topic": "13 Dynamic Programming",
     "subtopic": "Longest Common Subsequence (LCS)",
     "practiceLink": "https://leetcode.com/problems/edit-distance/description/",
     "page": 33
@@ -1542,25 +1542,25 @@
     "id": "172",
     "num": 172,
     "title": "Longest Palindromic Subsequence",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "Longest Increasing Subsequence (LIS)",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "Longest Palindromic Subsequence",
     "practiceLink": "https://leetcode.com/problems/longest-palindromic-subsequence/description/",
     "page": 34
   },
   {
     "id": "173",
     "num": 173,
-    "title": "Minimum Insertion Steps to Make a String Palindrome",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "Longest Increasing Subsequence (LIS)",
+    "title": "Minimum Insertion Steps To Make A String Palindrome",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "Longest Palindromic Subsequence",
     "practiceLink": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/",
     "page": 34
   },
   {
     "id": "174",
     "num": 174,
-    "title": "Algorithm  Longest Increasing Subsequence",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "title": "Longest Increasing Subsequence",
+    "topic": "13 Dynamic Programming",
     "subtopic": "Longest Increasing Subsequence (LIS)",
     "practiceLink": "https://leetcode.com/problems/longest-increasing-subsequence/description/",
     "page": 34
@@ -1569,8 +1569,8 @@
     "id": "175",
     "num": 175,
     "title": "Largest Divisible Subset",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "Matrix Chain Multiplication (MCM)",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "Longest Increasing Subsequence (LIS)",
     "practiceLink": "https://leetcode.com/problems/largest-divisible-subset/description/",
     "page": 34
   },
@@ -1578,16 +1578,16 @@
     "id": "176",
     "num": 176,
     "title": "Longest String Chain",
-    "topic": "10 DYNAMIC PROGRAMMING",
-    "subtopic": "Matrix Chain Multiplication (MCM)",
+    "topic": "13 Dynamic Programming",
+    "subtopic": "Longest Increasing Subsequence (LIS)",
     "practiceLink": "https://leetcode.com/problems/longest-string-chain/description/",
     "page": 34
   },
   {
     "id": "177",
     "num": 177,
-    "title": "Minimum Cost to Cut a Stick",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "title": "Minimum Cost To Cut A Stick",
+    "topic": "13 Dynamic Programming",
     "subtopic": "Matrix Chain Multiplication (MCM)",
     "practiceLink": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/",
     "page": 35
@@ -1596,7 +1596,7 @@
     "id": "178",
     "num": 178,
     "title": "Burst Balloons",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "topic": "13 Dynamic Programming",
     "subtopic": "Matrix Chain Multiplication (MCM)",
     "practiceLink": "https://leetcode.com/problems/burst-balloons/description/",
     "page": 35
@@ -1604,8 +1604,8 @@
   {
     "id": "179",
     "num": 179,
-    "title": "Parsing a Boolean Expression",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "title": "Parsing A Boolean Expression",
+    "topic": "13 Dynamic Programming",
     "subtopic": "Matrix Chain Multiplication (MCM)",
     "practiceLink": "https://leetcode.com/problems/parsing-a-boolean-expression/description/",
     "page": 35
@@ -1614,7 +1614,7 @@
     "id": "180",
     "num": 180,
     "title": "Palindrome Partitioning II",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "topic": "13 Dynamic Programming",
     "subtopic": "Matrix Chain Multiplication (MCM)",
     "practiceLink": "https://leetcode.com/problems/palindrome-partitioning-ii/description/",
     "page": 35
@@ -1622,8 +1622,8 @@
   {
     "id": "181",
     "num": 181,
-    "title": "Algorithm  Shortest Path Visiting All Nodes",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "title": "Shortest Path Visiting All Nodes",
+    "topic": "13 Dynamic Programming",
     "subtopic": "DP on Grids and Trees",
     "practiceLink": "https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/",
     "page": 35
@@ -1632,7 +1632,7 @@
     "id": "182",
     "num": 182,
     "title": "Unique Paths",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "topic": "13 Dynamic Programming",
     "subtopic": "DP on Grids and Trees",
     "practiceLink": "https://leetcode.com/problems/unique-paths/description/",
     "page": 35
@@ -1641,7 +1641,7 @@
     "id": "183",
     "num": 183,
     "title": "Unique Paths II",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "topic": "13 Dynamic Programming",
     "subtopic": "DP on Grids and Trees",
     "practiceLink": "https://leetcode.com/problems/unique-paths-ii/description/",
     "page": 36
@@ -1650,7 +1650,7 @@
     "id": "184",
     "num": 184,
     "title": "Minimum Path Sum",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "topic": "13 Dynamic Programming",
     "subtopic": "DP on Grids and Trees",
     "practiceLink": "https://leetcode.com/problems/minimum-path-sum/description/",
     "page": 36
@@ -1659,7 +1659,7 @@
     "id": "185",
     "num": 185,
     "title": "Russian Doll Envelopes",
-    "topic": "10 DYNAMIC PROGRAMMING",
+    "topic": "13 Dynamic Programming",
     "subtopic": "DP on Grids and Trees",
     "practiceLink": "https://leetcode.com/problems/russian-doll-envelopes/description/",
     "page": 36
@@ -1667,8 +1667,8 @@
   {
     "id": "186",
     "num": 186,
-    "title": "Find Greatest Common Divisor of Array",
-    "topic": "11 MATH",
+    "title": "Find Greatest Common Divisor Of Array",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
     "page": 37
@@ -1677,7 +1677,7 @@
     "id": "187",
     "num": 187,
     "title": "Self Dividing Numbers",
-    "topic": "11 MATH",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/self-dividing-numbers/",
     "page": 37
@@ -1685,8 +1685,8 @@
   {
     "id": "188",
     "num": 188,
-    "title": "Number of Good Pairs",
-    "topic": "11 MATH",
+    "title": "Number Of Good Pairs",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/number-of-good-pairs/",
     "page": 37
@@ -1695,7 +1695,7 @@
     "id": "189",
     "num": 189,
     "title": "Four Divisors",
-    "topic": "11 MATH",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/four-divisors/",
     "page": 37
@@ -1703,8 +1703,8 @@
   {
     "id": "190",
     "num": 190,
-    "title": "Day of the Week",
-    "topic": "11 MATH",
+    "title": "Day Of The Week",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/day-of-the-week/",
     "page": 37
@@ -1712,8 +1712,8 @@
   {
     "id": "191",
     "num": 191,
-    "title": "Subtract the Product and Sum of Digits of an Integer",
-    "topic": "11 MATH",
+    "title": "Subtract The Product And Sum Of Digits Of An Integer",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
     "page": 37
@@ -1721,8 +1721,8 @@
   {
     "id": "192",
     "num": 192,
-    "title": "Count of Matches in Tournament",
-    "topic": "11 MATH",
+    "title": "Count Of Matches In Tournament",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/count-of-matches-in-tournament/",
     "page": 37
@@ -1731,7 +1731,7 @@
     "id": "193",
     "num": 193,
     "title": "Max Consecutive Ones",
-    "topic": "11 MATH",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/max-consecutive-ones/",
     "page": 38
@@ -1740,7 +1740,7 @@
     "id": "194",
     "num": 194,
     "title": "Rectangle Overlap",
-    "topic": "11 MATH",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/rectangle-overlap/",
     "page": 38
@@ -1749,7 +1749,7 @@
     "id": "195",
     "num": 195,
     "title": "Excel Sheet Column",
-    "topic": "11 MATH",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/excel-sheet-column-title/",
     "page": 38
@@ -1758,7 +1758,7 @@
     "id": "196",
     "num": 196,
     "title": "Unique Paths",
-    "topic": "11 MATH",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/unique-paths/",
     "page": 38
@@ -1767,7 +1767,7 @@
     "id": "197",
     "num": 197,
     "title": "Rectangle Area",
-    "topic": "11 MATH",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/rectangle-area/",
     "page": 38
@@ -1775,8 +1775,8 @@
   {
     "id": "198",
     "num": 198,
-    "title": "Check If Array Pairs Are Divisible by k",
-    "topic": "11 MATH",
+    "title": "Check If Array Pairs Are Divisible By K",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/",
     "page": 38
@@ -1785,7 +1785,7 @@
     "id": "199",
     "num": 199,
     "title": "Factorial Trailing Zeroes",
-    "topic": "11 MATH",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/factorial-trailing-zeroes/",
     "page": 38
@@ -1794,7 +1794,7 @@
     "id": "200",
     "num": 200,
     "title": "Nth Magical Number",
-    "topic": "11 MATH",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/nth-magical-number/",
     "page": 38
@@ -1803,7 +1803,7 @@
     "id": "201",
     "num": 201,
     "title": "Permutation Sequence",
-    "topic": "11 MATH",
+    "topic": "14 Math",
     "subtopic": "Math",
     "practiceLink": "https://leetcode.com/problems/permutation-sequence/",
     "page": 38
@@ -1812,7 +1812,7 @@
     "id": "202",
     "num": 202,
     "title": "Single Number",
-    "topic": "11 MISCELLANEOUS",
+    "topic": "15 Miscellaneous",
     "subtopic": "Bit Manipulation Tricks",
     "practiceLink": "https://leetcode.com/problems/single-number/description/",
     "page": 39
@@ -1821,7 +1821,7 @@
     "id": "203",
     "num": 203,
     "title": "Reverse Bits",
-    "topic": "11 MISCELLANEOUS",
+    "topic": "15 Miscellaneous",
     "subtopic": "Bit Manipulation Tricks",
     "practiceLink": "https://leetcode.com/problems/reverse-bits/description/",
     "page": 39
@@ -1830,7 +1830,7 @@
     "id": "204",
     "num": 204,
     "title": "Single Number II",
-    "topic": "11 MISCELLANEOUS",
+    "topic": "15 Miscellaneous",
     "subtopic": "Bit Manipulation Tricks",
     "practiceLink": "https://leetcode.com/problems/single-number-ii/description/",
     "page": 39
@@ -1838,8 +1838,8 @@
   {
     "id": "205",
     "num": 205,
-    "title": "Number of 1 Bits",
-    "topic": "11 MISCELLANEOUS",
+    "title": "Number Of 1 Bits",
+    "topic": "15 Miscellaneous",
     "subtopic": "Bit Manipulation Tricks",
     "practiceLink": "https://leetcode.com/problems/number-of-1-bits/",
     "page": 39
@@ -1848,7 +1848,7 @@
     "id": "206",
     "num": 206,
     "title": "Factorial Trailing Zeroes",
-    "topic": "11 MISCELLANEOUS",
+    "topic": "15 Miscellaneous",
     "subtopic": "Bit Manipulation Tricks",
     "practiceLink": "https://leetcode.com/problems/factorial-trailing-zeroes/description/",
     "page": 39
@@ -1856,8 +1856,8 @@
   {
     "id": "207",
     "num": 207,
-    "title": "Binary Number with Alternating Bits",
-    "topic": "11 MISCELLANEOUS",
+    "title": "Binary Number With Alternating Bits",
+    "topic": "15 Miscellaneous",
     "subtopic": "Bit Manipulation Tricks",
     "practiceLink": "https://leetcode.com/problems/binary-number-with-alternating-bits/description/",
     "page": 39
@@ -1865,8 +1865,8 @@
   {
     "id": "208",
     "num": 208,
-    "title": "Number of Even and Odd Bits",
-    "topic": "11 MISCELLANEOUS",
+    "title": "Number Of Even And Odd Bits",
+    "topic": "15 Miscellaneous",
     "subtopic": "Bit Manipulation Tricks",
     "practiceLink": "https://leetcode.com/problems/number-of-even-and-odd-bits/description/",
     "page": 39
@@ -1874,8 +1874,8 @@
   {
     "id": "209",
     "num": 209,
-    "title": "First Occurrence in a String",
-    "topic": "11 MISCELLANEOUS",
+    "title": "Find The Index Of The First Occurrence In A String",
+    "topic": "15 Miscellaneous",
     "subtopic": "Rabin-Karp (Rolling Hash)",
     "practiceLink": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/",
     "page": 40
@@ -1884,7 +1884,7 @@
     "id": "210",
     "num": 210,
     "title": "Repeated DNA Sequences",
-    "topic": "11 MISCELLANEOUS",
+    "topic": "15 Miscellaneous",
     "subtopic": "Rabin-Karp (Rolling Hash)",
     "practiceLink": "https://leetcode.com/problems/repeated-dna-sequences/description/",
     "page": 40
@@ -1893,7 +1893,7 @@
     "id": "211",
     "num": 211,
     "title": "Longest Duplicate Substring",
-    "topic": "11 MISCELLANEOUS",
+    "topic": "15 Miscellaneous",
     "subtopic": "Rabin-Karp (Rolling Hash)",
     "practiceLink": "https://leetcode.com/problems/longest-duplicate-substring/description/",
     "page": 40

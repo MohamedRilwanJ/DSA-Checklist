@@ -21,7 +21,7 @@ export default function TopicAccordion({
   let rawTitle = numMatch ? numMatch[2] : topicName;
 
   // Title casing (e.g., ARRAYS -> Arrays, BINARY SEARCH -> Binary Search)
-  const cleanTitle = rawTitle.toLowerCase().replace(/\b\w/g, (c) => c.toUpperCase());
+  const cleanTitle = rawTitle;
 
   // Calculate total and completed count for this topic
   let totalCount = 0;
